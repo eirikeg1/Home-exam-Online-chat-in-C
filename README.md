@@ -1,6 +1,6 @@
 # Home exam for the subject: IN2140 - Introduction to Operating Systems
 
-* One program for client, and one for the server
+* One program for client, and one for the push server
 * Implements the _Stop and Wait_ protocol for communication
 * Implements a simplified version of the TCP protocol, using the UDP protocol
 * Users can block and add other users
